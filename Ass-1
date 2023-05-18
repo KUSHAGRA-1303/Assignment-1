@@ -1,9 +1,9 @@
 # Assignent - 1
 # Q1.
 # 1
-string = "Alok"
+string = "kushagra"
 print(string)
-Alok
+Kushagra
 # 2
 list = [3,5,7, 'anant' , 4.5 ,'kushagra']
 print(list)
@@ -13,9 +13,9 @@ float = 7.8
 print(float)
 7.8
 # 4
-tuple = (4,7,8, 'vishnu')
+tuple = (4,7,8, 'ram')
 print(tuple)
-(4, 7, 8, 'vishnu')
+(4, 7, 8, 'ram')
  
 # Q2.
 # 1
@@ -61,7 +61,7 @@ result = 2**3
 print(result)
 8
 # Q 4.
-list = [3, 4,5, 6, "alok" , "anand" , "akash" , "rahul" , 0 , 2]
+list = [3, 4,5, 6, "kushagra" , "anand" , "akash" , "rahul" , 0 , 2]
 print(len(list))
 for i in list:
     print(i , type(i))
@@ -70,7 +70,7 @@ for i in list:
 4 <class 'int'>
 5 <class 'int'>
 6 <class 'int'>
-alok <class 'str'>
+kushagra <class 'str'>
 anand <class 'str'>
 akash <class 'str'>
 rahul <class 'str'>
@@ -124,9 +124,9 @@ for i in list:
 25 This element is not divisible by 3
 # Q 7.
 Immutable objects -:
-immutable objects in object oriented programms are the object which can't be modified after they are created , if we try to modify them a new object will be created. Ex-: strings ,integers,tuples etc.
+immutable objects in object oriented programms are the object which can't be modified after they  created , if we try to modify them a new object will be created. Ex-: strings ,integers,tuples etc.
 
 Mutable objects -:
-Mutable objects in python are the objects in object oriented programs that can be modified after they are created , they can be modified easily and object will be the same. Ex-: list , dictionary etc.
+Mutable objects in python are the objects in object oriented programs that can be modified after they created , they can be modified easily and object will be the same. Ex-: list , dictionary etc.
 
  
